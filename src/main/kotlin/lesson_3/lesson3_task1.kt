@@ -26,4 +26,5 @@ fun main() {
         welcomeToApp = "Доброе утро, $userName!"
         println(welcomeToApp)
     } else println(welcomeToApp)
+
 }
