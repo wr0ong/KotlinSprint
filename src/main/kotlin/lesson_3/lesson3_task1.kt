@@ -1,4 +1,5 @@
 package org.example.lesson_3
+
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import java.text.SimpleDateFormat
@@ -26,5 +27,4 @@ fun main() {
         welcomeToApp = "Доброе утро, $userName!"
         println(welcomeToApp)
     } else println(welcomeToApp)
-
 }
