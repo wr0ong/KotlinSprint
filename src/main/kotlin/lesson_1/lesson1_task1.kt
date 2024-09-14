@@ -1,6 +1,7 @@
 package org.example.lesson_1
 
+
 fun main() {
-    println ("Решение первой задачи первого урока")
-    println ("Какие-то доработки")
+    var sumOrders: Int
+    val thanksForBuy: String = "Спасибо за покупку"
 }
